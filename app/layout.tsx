@@ -9,7 +9,7 @@ const robo = Roboto({
 });
 
 export const metadata: Metadata = {
-  title: "assigment",
+  title: "Assigment",
   description: "class assigment",
 };
 
