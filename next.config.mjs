@@ -1,8 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-    eslint:{
-        ignoreDuringBuilds:true
-    }
+   images:{
+    domains:["www.governorsindh.com"]
+   }
 };
 
 export default nextConfig;

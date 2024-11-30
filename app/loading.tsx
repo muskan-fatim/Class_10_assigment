@@ -11,7 +11,7 @@ export default function Loader() {
       </div>
       {/* Loading Text */}
       <p className="text-white text-lg mt-4 absolute bottom-10 animate-pulse">
-        Loading your experience...
+        Loading assigment...
       </p>
     </div>
   );

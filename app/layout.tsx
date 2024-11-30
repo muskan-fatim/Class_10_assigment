@@ -9,8 +9,8 @@ const robo = Roboto({
 });
 
 export const metadata: Metadata = {
-  title: "Protoflio",
-  description: "show case all skill and project",
+  title: "assigment",
+  description: "class assigment",
 };
 
 export default function RootLayout({
